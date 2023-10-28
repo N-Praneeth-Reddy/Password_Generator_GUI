@@ -2,11 +2,12 @@
 Password Generator with Tkinter GUI
 
 
-This is a Python application that generates random passwords with a graphical user interface (GUI) created using Tkinter. The application allows users to customize password length and character types to create strong and secure passwords.
+Overview
+This is a Python application that creates random passwords via a user-friendly graphical user interface (GUI) built with Tkinter. The tool empowers users to tailor password length and character types for crafting robust and secure passwords.
 
-Features: 
-User-friendly graphical user interface (GUI).
-Customizable password length.
-Options to include lowercase letters, uppercase letters, digits, and special characters.
-Password strength indicator.
-Ability to save generated passwords to a text file.
+Key Features
+Intuitive GUI: The application provides a straightforward and user-friendly graphical interface.
+
+Customizable Passwords: Users can set the desired password length and select the character types they wish to include (lowercase, uppercase, digits, and special characters).
+
+Password Strength Indicator: The application assesses the generated password's strength, categorizing it as "Weak
